@@ -1,2 +1,2 @@
 # EZGuitar
-iOS App for searching for guitar tabs, setting goals, and posting pictures to Facebook
+iOS App for searching for guitar tabs, setting practice goals, and posting pictures to Facebook
